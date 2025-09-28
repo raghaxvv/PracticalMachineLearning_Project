@@ -1,6 +1,6 @@
 ---
 title: "Predict activity quality from activity monitors"
-author: "Rghav Kapoor"
+author: "Raghav Kapoor"
 date: "24. January 2015"
 output:
   html_document:
